@@ -1,6 +1,10 @@
 # ELEC0098_IMS_Research-and-Development-on-HTTP-Video-Streaming
 IMS Assignment: Research and Development on HTTP Video Streaming.  Study of bitrate-quality-complexity of several video encoders supported by FFmpeg (or libav or similar), such as H.264/AVC, HEVC, VP9
 
+The repository with all the videos tested, results, sources, tools, notes, raw data and encoded data can be found here:
+
+https://drive.google.com/open?id=1iPRFHV4yB9jlWmiCBdjW4hr9R5ZDbAPB
+
 Download Anaconda Navigator from https://www.anaconda.com/distribution/
 You can install it for Windows, Mac or Linux machines
 
